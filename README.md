@@ -1,4 +1,5 @@
-# Getting Started with GitHub Copilot
+if email in activity["participants"]:
+    raise HTTPException(status_code=400, detail="Student is already signed up")# Getting Started with GitHub Copilot
 
 <img src="https://octodex.github.com/images/Professortocat_v2.png" align="right" height="200px" />
 

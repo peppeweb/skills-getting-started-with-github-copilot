@@ -41,7 +41,7 @@ activities = {
     },
     # Sports related activities
     "Soccer Team": {
-        "description": "Join the school soccer team and compete in local leagues",
+        "description": "Joint the school soccer team and compete in local leagues",
         "schedule": "Tuesdays and Thursdays, 4:00 PM - 5:30 PM",
         "max_participants": 22,
         "participants": ["lucas@mergington.edu", "mia@mergington.edu"]
